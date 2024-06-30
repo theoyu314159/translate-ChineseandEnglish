@@ -12,10 +12,10 @@
 如果想要省麻煩就用python放入您電腦，
 接著去終端機import gradio,googletrans,gTTS
 也可以使用我們在replit的檔案:https://replit.com/@hackeryu314159/Ying-Fan-Zhong-web#main.py
-#公開網站...
+# 公開網站...
 希望可以找人陪我們將我們的網站放上hugging face，
 近期還在研究error中
-#特別感謝
+# 特別感謝
 Jimmy876135
 hackeryu314159
 
