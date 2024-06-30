@@ -16,4 +16,6 @@
 希望可以找人陪我們將我們的網站放上hugging face，
 近期還在研究error中
 #特別感謝
+Jimmy876135
+hackeryu314159
 
