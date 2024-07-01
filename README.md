@@ -1,4 +1,4 @@
-[colab網址](https://colab.research.google.com/drive/1Xm8OWPBINvGmloIx7PAGZhdOBviR9p5z?usp=sharing）
+
 # ch-en-translate
 中英文翻譯工具
 # 介紹
