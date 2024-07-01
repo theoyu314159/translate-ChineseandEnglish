@@ -13,6 +13,10 @@
 如果想要省麻煩就用python放入您電腦，
 接著去終端機import gradio,googletrans,gTTS,
 也可以透過我們放在colab的網址進去https://colab.research.google.com/drive/1Xm8OWPBINvGmloIx7PAGZhdOBviR9p5z?usp=sharing。
+# 上面的檔案
+app.py是python的檔案，
+如果使用這個需要自行安裝上面說的東西，
+另一個是我們直接從colab下載下來的。
 # 公開網站...
 希望可以找人陪我們將我們的網站放上hugging face，
 近期還在研究error中。
