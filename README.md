@@ -24,7 +24,7 @@ app.py是python的檔案，
 # 下次更新內容
 下次我們希望可以更新也可以讓大家語音輸入,或者是也可以支援日語（這個應該會先出）。
 # 執行圖片
-<img width="1236" alt="截圖 2024-07-02 下午11 00 30" src="https://github.com/hackeryu314159/ch-en-translate/assets/125031865/1e96d72d-5003-46a0-9f5c-896d6b5d1687">;
+<img width="1236" alt="截圖 2024-07-02 下午11 00 30" src="https://github.com/hackeryu314159/ch-en-translate/assets/125031865/1e96d72d-5003-46a0-9f5c-896d6b5d1687">
 # 引用內容
 googletrans,gTTS,gradio。
 # 特別感謝
