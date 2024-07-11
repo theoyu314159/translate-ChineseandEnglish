@@ -8,7 +8,7 @@
 我們尚未完成
 # 如何執行
 可以用我們上面給的app.py執行，
-不過需要自行安裝pytube,gradio，
+不過需要自行安裝模組，
 另一個是我們直接從colab下載的也可以直接使用，
 也可以直接進我們的colab執行喔：https://colab.research.google.com/drive/1Xm8OWPBINvGmloIx7PAGZhdOBviR9p5z?usp=sharing
 # 未來更新內容
