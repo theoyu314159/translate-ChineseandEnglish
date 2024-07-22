@@ -18,7 +18,5 @@
 
 # 引用模組
 gradio,gTTS,googletrans.
-# 使用請注意
-請注意版權等問題。
 # 特別感謝
 Jimmy876135 ,hackeryu314159
